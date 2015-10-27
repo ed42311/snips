@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div>
+	<form>
+		<h1>Form Title</h1>
+		<input type="text" class="" placeholder="search"/>
+	<div>
+		<button onclick="" type="submit"  class="btn btn-success">Get Recipes</button>
+	</div>
+	</form>
+</div>
+]]></content>
+	<tabTrigger>formSimpleHTML</tabTrigger> -->
+</snippet>

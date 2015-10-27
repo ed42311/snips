@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div id="preloader" style="display: none;">
+	<div id="status" style="display: none;"></div>
+</div>
+]]></content>
+<tabTrigger>preloadBS</tabTrigger> -->
+<scope>source.js, source.html</scope> -->
+</snippet>

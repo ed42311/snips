@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+		var App = React.createClass({
+		    render: function() {
+		        return (
+		          <div>
+		              <ul>
+		                <h1>  hello world </h1>
+		              </ul>
+		          </div>
+		        );
+		    }
+		});
+
+		React.render(<App/>, document.body);
+]]></content>
+	
+<tabTrigger>comp</tabTrigger> -->
+</snippet>
