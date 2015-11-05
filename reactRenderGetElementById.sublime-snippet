@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+React.render(<App/>, document.getElementById('firstColumn'));
+]]></content>
+<tabTrigger>reactRenderID</tabTrigger> -->
+
+</snippet>
