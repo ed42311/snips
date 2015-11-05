@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+getInitialState: function() {
+      return {};
+    },
+]]></content>
+	<tabTrigger>gis</tabTrigger> -->
+	
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+		handleClick: function(event) {
+		    this.setState({something: !this.state.something});
+		},
+]]></content>
+	
+<tabTrigger>handleCl</tabTrigger> -->
+</snippet>
