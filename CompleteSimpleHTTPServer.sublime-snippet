@@ -1,0 +1,22 @@
+<!-- This snippet sets up a complete simple server that responds with a phase to
+port 8080 -->
+
+<snippet>
+	<content><![CDATA[
+var http = require('http');
+const PORT = 8080;
+
+function handleRequest(request, response) {
+	response.end('It Works!! Path Hit: ' + request.url);
+}
+
+var server = http.createServer(handleRequest);
+
+server.listen(PORT, function(){
+	console.log('Server is listening on: http://localhost:%s', PORT);
+})
+]]></content>
+<tabTrigger>serverSimpleComp</tabTrigger> -->
+
+<scope>source.js</scope>
+</snippet>
