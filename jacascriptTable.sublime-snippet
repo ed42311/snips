@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+		<snippet>
+			<table>
+			  <tr>
+			    <td></td>
+			    <td></td> 
+			    <td></td>
+			  </tr>
+			  <tr>
+			    <td></td>
+			    <td></td> 
+			    <td></td>
+			  </tr>
+			</table>
+]]></content>	
+<tabTrigger>tableJS</tabTrigger> -->
+</snippet>
