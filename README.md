@@ -1,12 +1,41 @@
 # snips
 
-These are snippets for Sublime Text 3:
+####These are snippets for Sublime Text 3
+	They are ordered by category in this format:
+		**snippetName** :tabtrigger:  - What the snippet does
+			Code block
 
-	1. compReact - creates a React Component ready to interact with html markup.
+###React Snippets
 
-	2. htmlReact - creates the template for a HTML page that can function with React.
+	1. **reactComponent** :compReact: - creates a React Component ready to interact with a skeleton html page.
 
-	3. simpleFormHTML - creates a very simple form with a button.
+		It starts out looking like this:
+			``` var App = React.createClass({
+		    		render: function() {
+		        		return (
+		         			<div>
+		              			<ul>
+		                			<h1>  hello world </h1>
+		              			</ul>
+		          			</div>
+		        		);
+		    		}
+				});
 
-	4. SimpleRestfulApi - creates all of the javascript for your server.js file, a model-based databse interaction from this website:  https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+				React.render(<App/>, document.body);
+
+
+
+	2. **reactRenderGetElementById** :reactRenderID: - formulates a render function that allows you to render a component to the page with an id.
+
+			It starts out looking like this:
+			``` React.render(<App/>, document.getElementById('someID'));
+
+	
+
+
+		
+###Miscellaenuos
+
+	1.
 

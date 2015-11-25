@@ -64,5 +64,6 @@ ar App = React.createClass({
 		    }
 		});
 ]]></content>
-	<tabTrigger>buttonRendersButton</tabTrigger> -->	
+	<tabTrigger>buttonRendersButton</tabTrigger>
+	<scope>source.js</scope>	
 </snippet>

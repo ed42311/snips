@@ -16,4 +16,5 @@
 ]]></content>
 	
 <tabTrigger>comp</tabTrigger> -->
+<scope>source.js</scope>
 </snippet>

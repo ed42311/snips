@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-		<snippet>
 			<table>
 			  <tr>
 			    <td></td>
@@ -14,5 +13,5 @@
 			  </tr>
 			</table>
 ]]></content>	
-<tabTrigger>tableJS</tabTrigger> -->
+<tabTrigger>jstable</tabTrigger> -->
 </snippet>

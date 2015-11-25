@@ -3,10 +3,10 @@
 
    fetchSomeData: function ( req, res ) {
 
-      var = someAPIReq
-      
-   
-     axios.get(someAPIReq)
+    var = someURL
+    var = someAPIReq
+
+    axios.get(someURL + someAPIReq)
      .then(function (response) {
        res.json(response);
        console.log(response;
@@ -19,4 +19,5 @@
 }
 ]]></content>
 	<tabTrigger>axiosAPIcall</tabTrigger> -->
+  <scope></scope>
 </snippet>

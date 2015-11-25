@@ -1,15 +1,6 @@
 <snippet>
 	<content><![CDATA[
-// server.js
-
-// BASE SETUP
-// =============================================================================
-
-
-
-// call the packages we need
 var express    = require('express');        // call express
-                // define our app using express
 var bodyParser = require('body-parser');
 var Bear = require('./models/bear');
 var mongoose   = require('mongoose');
@@ -127,7 +118,6 @@ app.listen(port);
 console.log('Magic happens on port ' + port);
 ]]></content>
 	
-<tabTrigger>RESTapiSimple</tabTrigger> -->
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+<tabTrigger>restfulAPI</tabTrigger> 
+<scope>source.js</scope> 
 </snippet>

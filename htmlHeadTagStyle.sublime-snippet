@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+		<head>
+			<meta charset="utf-8">
+			<title>Webpack Example</title>
+			<link rel="stylesheet" type="text/css" href="style.css">
+		</head>
+	]]></content>
+	
+	<tabTrigger>htmlHeadStyleMeta</tabTrigger>
+	<scope>source.html</scope>
+</snippet>
