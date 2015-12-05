@@ -18,5 +18,6 @@ var LikeButton = React.createClass({
 });
 
 ]]></content>
-<tabTrigger>reactLikeBtn</tabTrigger> -->
+<tabTrigger>#rctlikebtn</tabTrigger> -->
+<scope>source.js</scope>
 </snippet>

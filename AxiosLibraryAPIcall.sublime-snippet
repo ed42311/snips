@@ -19,5 +19,5 @@
 }
 ]]></content>
 	<tabTrigger>axiosAPIcall</tabTrigger> -->
-  <scope></scope>
+  <scope>source.js, source.ejs</scope>
 </snippet>

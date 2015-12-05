@@ -13,7 +13,6 @@ server.listen(PORT, function(){
 	console.log('Server is listening on: http://localhost:%s', PORT);
 })
 ]]></content>
-<tabTrigger>serverSimpleComp</tabTrigger> -->
-
+<tabTrigger>#servbasic</tabTrigger> -->
 <scope>source.js</scope>
 </snippet>

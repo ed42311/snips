@@ -1,30 +1,21 @@
 <snippet>
 	<content><![CDATA[
-<!DOCTYPE html>
-<html>
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<link rel="stylesheet" type="text/css" href="style.css">
 
-<!-- **************************Head********************* -->
-	<head>
-		<meta charset="utf-8">
-		<link rel="stylesheet" type="text/css" href="style.css">
-
-		<title>Title</title>
-	</head>
-
-<!-- **************************Body********************* -->
-	<body>
-		
-	
-<!-- ^^^^^^^^^^^^^^^^^^^^^Links and style ^^^^^^^^^^^^^^^^^^^^^^^-->		
-		<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
-		
-	</body>
-
-<!-- **************************Footer********************* -->
-	<footer>	
-	</footer>
+			<title>Title</title>
+		</head>
+		<body>
+			
+			
+			<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+		</body>
+		<footer>	
+		</footer>
 ]]></content>
-	<tabTrigger>htmlStartSimple</tabTrigger> -->
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+	<tabTrigger>htmlStartSimple</tabTrigger> 
+	<scope>source.html</scope> 
 </snippet>
