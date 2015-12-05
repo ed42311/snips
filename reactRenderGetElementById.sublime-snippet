@@ -2,6 +2,6 @@
 		<content><![CDATA[
 			React.render(<App/>, document.getElementById('someID'));
 		]]></content>
-	<tabTrigger>reactRenderID</tabTrigger> -->
+	<tabTrigger>getelbyid</tabTrigger> -->
 	<scope>source.js</scope>
 </snippet>

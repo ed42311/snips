@@ -14,6 +14,6 @@
 			  </tr>
 			</table>
 ]]></content>	
-<tabTrigger>#tbl</tabTrigger> -->
+<tabTrigger>tbl</tabTrigger> -->
 <scope>source.js</scope>
 </snippet>
