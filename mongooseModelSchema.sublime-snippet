@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+var mongoose = require('mongoose');
+var bcrypt = require('bcrypt-nodejs');
+
+var schemaSchema = mongoose.Schema({
+  key: Array,
+  key: String,
+  key: Boolean,
+});
+
+
+
+module.exports = mongoose.model('Modelname', schemaSchema);
+]]></content>
+<tabTrigger>modelschema</tabTrigger>
+<scope>source.js</scope>
+</snippet>
