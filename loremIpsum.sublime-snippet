@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus dui sit amet pellentesque tempus. Nulla interdum magna sed convallis rutrum. In hac habitasse platea dictumst. Ut nec elementum eros. Sed quis purus et leo vehicula vulputate in at diam. Aenean consequat, velit at tempus sollicitudin, purus nulla sagittis lectus, non vulputate lectus arcu a lacus. Donec metus mauris, semper eget libero a, vehicula sodales dui. Vivamus vitae elit faucibus lectus ornare porttitor. Fusce a euismod libero. Duis eleifend finibus maximus. Quisque tincidunt tortor lectus, nec ullamcorper mauris posuere non. Curabitur mollis mollis enim vitae scelerisque. Cras tristique orci vel felis efficitur egestas. Duis et elit velit. Ut odio orci, suscipit euismod enim nec, posuere interdum nisl.
+]]></content>
+ <tabTrigger>lorem</tabTrigger>
+ <scope>source.html</scope> 
+</snippet>
