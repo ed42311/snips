@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+$(window).scroll(function(){
+  $(".title").css("opacity", 1 - $(window).scrollTop() / 350);
+});
+]]></content>
+ <tabTrigger>titleFadeJS</tabTrigger>
+  <scope>source.javascript</scope>
+</snippet>
